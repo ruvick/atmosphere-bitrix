@@ -1,7 +1,7 @@
 <?php
 
   $arTemplate = [
-    'NAME' => 'Сайт фитнес центра',
+    'NAME' => 'бор',
     'DESCRIPTION' => 'Описание темы',
   ];
 
